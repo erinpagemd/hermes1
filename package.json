@@ -1,0 +1,17 @@
+{
+  "author": "Keaton and Erin <erinpagemd@gmail.com>",
+  "name": "hermes1",
+  "version": "0.1.0",
+  "description": "hermes1",
+  "homepage": "",
+  "dependencies": {
+    "johnny-five": "^0.8.46",
+    "keypress": "latest",
+    "spark-io": "latest"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "engines": {
+    "node": "0.10.10"
+  }
+}
